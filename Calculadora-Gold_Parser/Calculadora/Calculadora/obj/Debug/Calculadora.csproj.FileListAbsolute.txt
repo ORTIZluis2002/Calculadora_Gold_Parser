@@ -1,0 +1,37 @@
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\bin\Debug\CalithaLib.dll
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\bin\Debug\GoldParserEngine.dll
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\lecci\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ismae\Desktop\Calculadora - gold parser\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Scrat\Documents\Calculadora-Gold_Parser\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

@@ -1,0 +1,15 @@
+!Welcome to GOLD PARSER BUILDER 4.1.1
+
+"Name" = 'Calculadora'
+"Author" = 'Ismael Cordova Barrios'
+"Version" = '1.2'
+"About" = 'Calculadora que suma, resta, multiplica y divide'
+
+Entero = {Number}+
+Real = {Number}+'.'{Number}+
+
+"Start Symbol" = <E>
+
+<E> ::= <E> '+' <T> | <E> '-' <T> | <T>
+<T> ::= <T> '*' <F> | <T> '/' <F> | <F>
+<F> ::= '(' <E> ')' | Entero | Real
